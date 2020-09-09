@@ -1,0 +1,6 @@
+/.env.php
+/.idea/
+/.phpunit.result.cache
+/composer.lock
+/test-reports/
+/vendor/
